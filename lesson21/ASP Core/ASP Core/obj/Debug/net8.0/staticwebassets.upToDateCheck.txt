@@ -1,0 +1,4 @@
+wwwroot\css\style.css
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\js\routes.js

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\necto\\source\\repos\\ASP Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\asp core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\asp core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\wwwroot\\js\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\wwwroot\\js\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|c:\\users\\necto\\source\\repos\\asp core\\asp core\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3439C067-7620-4BF0-9EE4-60B3321D8493}|ASP Core\\ASP Core.csproj|solutionrelative:asp core\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ASP Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Models\\Student.cs",
+              "RelativeToolTip": "ASP Core\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:23:42.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASP Core",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\ASP Core.csproj",
+              "RelativeDocumentMoniker": "ASP Core\\ASP Core.csproj",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\ASP Core.csproj",
+              "RelativeToolTip": "ASP Core\\ASP Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-22T07:04:46.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "routes.js",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\js\\routes.js",
+              "RelativeDocumentMoniker": "ASP Core\\wwwroot\\js\\routes.js",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\js\\routes.js",
+              "RelativeToolTip": "ASP Core\\wwwroot\\js\\routes.js",
+              "ViewState": "AgIAAB8AAAAAAAAAAMBdwAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-21T09:08:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "ASP Core\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "RelativeToolTip": "ASP Core\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-10-15T07:52:36.088Z",
+              "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ASP Core\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\wwwroot\\index.html",
+              "RelativeToolTip": "ASP Core\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-15T07:48:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "ASP Core\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Models\\Group.cs",
+              "RelativeToolTip": "ASP Core\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:23:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Program.cs",
+              "RelativeDocumentMoniker": "ASP Core\\Program.cs",
+              "ToolTip": "C:\\Users\\necto\\source\\repos\\ASP Core\\ASP Core\\Program.cs*",
+              "RelativeToolTip": "ASP Core\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:00:57.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
